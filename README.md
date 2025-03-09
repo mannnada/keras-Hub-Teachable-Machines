@@ -1,4 +1,3 @@
-# keras-Hub-Teachable-Machines
 # **Keras Hub & Teachable Machines**  
 
 ## **Project Overview**  
