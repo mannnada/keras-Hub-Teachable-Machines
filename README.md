@@ -17,7 +17,7 @@ https://colab.research.google.com/drive/1ktPaHPtln54nXWvAxVGUGR4jTrqFyCA9?usp=sh
 - Includes hands-on examples for **handwritten digit classification, sentiment analysis, and gesture recognition**  
 
 📌 **Colab 2: Small Variations of Keras Hub**  
-[SmallVariationsOfTheKeras-hub Colab](Colab2)  
+https://colab.research.google.com/drive/1D-AjM3BzW1YO6WXIoyA70SF8l8PCU-5t?usp=sharing  
 
 - Explores **image and text models from Keras Hub**  
 - Includes **Easy, Intermediate, Advanced, and Expert** levels of modifications  
