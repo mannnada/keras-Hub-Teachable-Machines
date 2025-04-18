@@ -10,7 +10,7 @@ Each section includes **Colab notebooks** and a **YouTube tutorial** explaining 
 ## **🔗 Links to Colab Notebooks**  
 
 📌 **Colab 1: Teachable Machines**  
-[TeachableMachines Colab](Colab1)  
+https://colab.research.google.com/drive/1ktPaHPtln54nXWvAxVGUGR4jTrqFyCA9?usp=sharing  
 
 - Covers **image, text, and video-based models**  
 - Demonstrates how to **train, export, and deploy** a model using Teachable Machine  
