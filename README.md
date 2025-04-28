@@ -1,60 +1,75 @@
-# **Keras Hub & Teachable Machines**  
+# Keras Hub & Teachable Machines Assignment
 
-## **Project Overview**  
-This repository contains implementations of **Google’s Teachable Machine** models and **small variations of Keras Hub examples**. The goal is to explore machine learning through interactive, easy-to-use tools while modifying existing deep-learning models for different tasks.  
+**Deadline:** March 8, 11:59 PM
 
-Each section includes **Colab notebooks** and a **YouTube tutorial** explaining the implementation in detail.  
-
----
-
-## **🔗 Links to Colab Notebooks**  
-
-📌 **Colab 1: Teachable Machines**  
-https://colab.research.google.com/drive/1ktPaHPtln54nXWvAxVGUGR4jTrqFyCA9?usp=sharing  
-
-- Covers **image, text, and video-based models**  
-- Demonstrates how to **train, export, and deploy** a model using Teachable Machine  
-- Includes hands-on examples for **handwritten digit classification, sentiment analysis, and gesture recognition**  
-
-📌 **Colab 2: Small Variations of Keras Hub**  
-https://colab.research.google.com/drive/1D-AjM3BzW1YO6WXIoyA70SF8l8PCU-5t?usp=sharing  
-
-- Explores **image and text models from Keras Hub**  
-- Includes **Easy, Intermediate, Advanced, and Expert** levels of modifications  
-- Covers **MobileNetV2, ResNet50, EfficientNet, ViT, BERT, DistilBERT, T5 Transformer, and GPT-based models**  
+**Submission Requirements:**
+- Complete Google Colab notebooks for each part.
+- Full YouTube video explaining your demos.
+- Clear separation of Part A and Part B tasks.
 
 ---
 
-## **📺 Video Explanation**  
-🎥 **YouTube Video:** [Watch Here](Youtube)  
+## Part A: Teachable Machines Examples
 
-This video walks through:  
-✅ The **concept** behind each implementation  
-✅ Step-by-step **code execution**  
-✅ **Modifications and variations** applied to existing models  
-✅ How to **experiment and improve** the models  
+**Goal:** Create three examples using Teachable Machines with:
+- Text
+- Image
+- Video
 
----
+**Helpful Resources:**
+- [Awesome Teachable Machine (GitHub)](https://github.com/SashiDo/awesome-teachable-machine)
+- [Teachable Machine Community Projects (GitHub)](https://github.com/googlecreativelab/teachablemachine-community/?tab=readme-ov-file)
+- [Teachable Machine Projects on Glitch](https://glitch.com/@teachablemachine)
+- [#TeachableMachine on Twitter/X](https://x.com/hashtag/teachablemachine)
 
-## **💡 How to Use This Repository**  
-
-### **1. Running Teachable Machine Models**  
-1. Open **Colab 1: Teachable Machines**  
-2. Follow the steps to **train, export, and test** the model  
-3. Deploy the model using **TensorFlow.js** for real-time testing  
-
-### **2. Running Keras Hub Variations**  
-1. Open **Colab 2: Small Variations of Keras Hub**  
-2. Run the notebooks to see different models in action  
-3. Modify parameters and datasets to explore further  
+### Teachable Machine Colabs:
+- [Colab 1: Teachable Machines Examples](#)  
+  *(Text, Image, and Video models using Google’s Teachable Machine.)*
 
 ---
 
-## **📌 Contributing**  
-👨‍💻 **Mann Nada**  
+## Part B: Keras Hub - Image & Text Models
 
-Feel free to contribute by improving the models, experimenting with new datasets, or adding documentation. For suggestions, reach out! 🚀  
+**Goal:** Implement small variations on Keras Hub examples for **both Image and Text tasks**, across the following difficulty levels:
+- Easy
+- Intermediate
+- Advanced
+- Expert
+
+Each variation should be created and explained separately.
+
+### Keras Hub Colabs:
+- [Colab 2: Image Classification (Easy, Intermediate, Advanced, Expert)](#)
+- [Colab 3: Text Generation (Easy, Intermediate, Advanced, Expert)](#)
 
 ---
 
-This `README.md` is structured to ensure clarity and easy navigation for users. Let me know if you need modifications! 🚀
+## Video Demonstration
+
+🎥 [YouTube Video Link](#)  
+*(Complete walkthrough explaining Colab notebooks and modifications.)*
+
+---
+
+## Project Structure
+
+```plaintext
+/Teachable_Machines_and_KerasHub_Assignment
+│
+├── teachable_machines/
+│   ├── text_example.ipynb
+│   ├── image_example.ipynb
+│   ├── video_example.ipynb
+│
+├── keras_hub/
+│   ├── image_classification_easy.ipynb
+│   ├── image_classification_intermediate.ipynb
+│   ├── image_classification_advanced.ipynb
+│   ├── image_classification_expert.ipynb
+│   ├── text_generation_easy.ipynb
+│   ├── text_generation_intermediate.ipynb
+│   ├── text_generation_advanced.ipynb
+│   ├── text_generation_expert.ipynb
+│
+└── README.md
+
