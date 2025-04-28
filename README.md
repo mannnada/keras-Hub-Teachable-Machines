@@ -50,26 +50,3 @@ Each variation should be created and explained separately.
 *(Complete walkthrough explaining Colab notebooks and modifications.)*
 
 ---
-
-## Project Structure
-
-```plaintext
-/Teachable_Machines_and_KerasHub_Assignment
-│
-├── teachable_machines/
-│   ├── text_example.ipynb
-│   ├── image_example.ipynb
-│   ├── video_example.ipynb
-│
-├── keras_hub/
-│   ├── image_classification_easy.ipynb
-│   ├── image_classification_intermediate.ipynb
-│   ├── image_classification_advanced.ipynb
-│   ├── image_classification_expert.ipynb
-│   ├── text_generation_easy.ipynb
-│   ├── text_generation_intermediate.ipynb
-│   ├── text_generation_advanced.ipynb
-│   ├── text_generation_expert.ipynb
-│
-└── README.md
-
