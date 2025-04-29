@@ -23,7 +23,7 @@
 - [#TeachableMachine on Twitter/X](https://x.com/hashtag/teachablemachine)
 
 ### Teachable Machine Colabs:
-- [Colab 1: https://colab.research.google.com/drive/13vNa3hAh1j-l5JpI0gMrwF82I5Ai_tW8?usp=sharing](#)  
+- [Colab 1: ](#)  
   *(Text, Image, and Video models using Google’s Teachable Machine.)*
 
 ---
@@ -39,7 +39,7 @@
 Each variation should be created and explained separately.
 
 ### Keras Hub Colabs:
-- [Colab 2: Image Classification (Easy, Intermediate, Advanced, Expert)](#)
+- [Colab 2: https://colab.research.google.com/drive/13vNa3hAh1j-l5JpI0gMrwF82I5Ai_tW8?usp=sharing](#)
 - [Colab 3: Text Generation (Easy, Intermediate, Advanced, Expert)](#)
 
 ---
