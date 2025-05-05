@@ -23,7 +23,7 @@
 - [#TeachableMachine on Twitter/X](https://x.com/hashtag/teachablemachine)
 
 ### Teachable Machine Colabs:
-https://colab.research.google.com/drive/1Uj8KtvLEMQvNAGEzdMxcLHut9i_MhpIq?usp=sharing ](#)  
+https://colab.research.google.com/drive/1Uj8KtvLEMQvNAGEzdMxcLHut9i_MhpIq?usp=sharing
 
 ---
 
@@ -38,8 +38,8 @@ https://colab.research.google.com/drive/1Uj8KtvLEMQvNAGEzdMxcLHut9i_MhpIq?usp=sh
 Each variation should be created and explained separately.
 
 ### Keras Hub Colabs:
-- [Colab 2: https://colab.research.google.com/drive/13vNa3hAh1j-l5JpI0gMrwF82I5Ai_tW8?usp=sharing](#)
-- [Colab 3: https://colab.research.google.com/drive/1SVp7zydO_kw33Sdd5t2VDWzHAZad5ubm?usp=sharing](#)
+https://colab.research.google.com/drive/13vNa3hAh1j-l5JpI0gMrwF82I5Ai_tW8?usp=sharing
+https://colab.research.google.com/drive/1SVp7zydO_kw33Sdd5t2VDWzHAZad5ubm?usp=sharing
 
 ---
 
