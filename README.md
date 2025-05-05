@@ -23,7 +23,7 @@
 - [#TeachableMachine on Twitter/X](https://x.com/hashtag/teachablemachine)
 
 ### Teachable Machine Colabs:
-- [Colab 1: https://colab.research.google.com/drive/1Uj8KtvLEMQvNAGEzdMxcLHut9i_MhpIq?usp=sharing ](#)  
+https://colab.research.google.com/drive/1Uj8KtvLEMQvNAGEzdMxcLHut9i_MhpIq?usp=sharing ](#)  
 
 ---
 
