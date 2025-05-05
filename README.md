@@ -24,7 +24,6 @@
 
 ### Teachable Machine Colabs:
 - [Colab 1: https://colab.research.google.com/drive/1Uj8KtvLEMQvNAGEzdMxcLHut9i_MhpIq?usp=sharing ](#)  
-  *(Text, Image, and Video models using Google’s Teachable Machine.)*
 
 ---
 
