@@ -45,7 +45,7 @@ https://colab.research.google.com/drive/1SVp7zydO_kw33Sdd5t2VDWzHAZad5ubm?usp=sh
 
 ## Video Demonstration
 
-🎥 [YouTube Video Link](#)  
+🎥 https://youtu.be/lEC5joZHNPM
 *(Complete walkthrough explaining Colab notebooks and modifications.)*
 
 ---
